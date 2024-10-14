@@ -1,1 +1,1 @@
-// src dosyasına ulaşıp (cd src) "node app" yazın
+src dosyasına ulaşıp (cd src) "node app" yazın
