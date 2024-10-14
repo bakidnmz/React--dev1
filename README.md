@@ -1,1 +1,1 @@
-console üzerinden src dosyasına ulaşıp (cd src) "node app" yazın
+console üzerinden src dosyasına ulaşıp (cd src) "node app" yazın..
